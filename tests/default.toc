@@ -1,3 +1,0 @@
-## Interface: 70300
-
-file.lua

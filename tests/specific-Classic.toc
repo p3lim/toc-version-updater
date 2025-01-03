@@ -1,3 +1,0 @@
-## Interface: 10300
-
-file.lua
